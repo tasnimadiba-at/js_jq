@@ -1,0 +1,66 @@
+h2{
+	font-size: 35px;
+	color: blue;
+}
+h4{
+	font-size: 15px;
+}
+
+h1{
+	font-size: 20px;
+}
+.btn_a{
+	display: block;
+}
+h6{
+	display: inline;
+}
+h3{
+	font-size: 16px;
+}
+
+.focus{
+	padding: 10px;
+	border: 1px solid black;
+
+}
+
+#box{
+	background:#98bf21;
+	height:100px;
+	width:100px;
+	margin:6px;
+}
+
+#box1{
+	width:90px;
+	height:90px;
+	display:none;
+	background-color:black;
+}
+#box2{
+	width:90px;
+	height:90px;
+	display:none;
+	background-color:red;
+}
+#box3{
+	width:90px;
+	height:90px;
+	display:none;
+	background-color:green;
+}
+#box4{
+	width:90px;
+	height:90px;
+	display:none;
+	background-color:blue;
+}
+#hide,#show,#toggole{
+	margin-bottom: 20px;
+}
+
+#hide1,#show1,#toggole1{
+	margin-bottom: 20px;
+}
+
